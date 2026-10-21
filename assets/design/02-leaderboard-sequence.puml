@@ -1,0 +1,67 @@
+@startuml
+skinparam defaultFontName Segoe UI
+skinparam defaultFontSize 14
+skinparam backgroundColor white
+skinparam shadowing false
+skinparam dpi 140
+skinparam sequenceMessageAlign center
+skinparam ParticipantBackgroundColor #EEF7F5
+skinparam ParticipantBorderColor #286B62
+skinparam ArrowColor #40535B
+hide footbox
+title Соревновательный раунд и общий рейтинг
+autonumber
+actor "Игрок" as U
+participant "Unity-приложение" as A
+database "Локальный JSON\nplayerId + pending" as L
+participant "API рейтинга" as API
+database "SQLite\nлучшие результаты" as DB
+U -> A : Начать раунд; указать никнейм [FR-06]
+A -> L : Получить или создать постоянный playerId
+L --> A : playerId
+note over U,A
+  После загрузки запускается таймер и локальная модель соперника.
+  Системная пауза исключается из времени [FR-06].
+end note
+U -> A : Найти последнюю из 10 целей
+A -> A : Остановить таймер; получить timeMs
+A -> L : Сохранить лучший неотправленный результат [FR-10]
+alt Нет сети / ошибка связи / таймаут [NFR-02]
+  A --> U : Показать итог завершённого раунда
+  A -> A : Записать предупреждение об ошибке связи
+  note over A,L : Pending сохраняется после обычного перезапуска [NFR-03]
+else Связь доступна
+  A -> API : HTTPS POST /api/v1/leaderboard/results\nplayerId, nickname, timeMs [FR-07, NFR-05]
+  API -> API : Проверить поля, диапазон времени\nи ограничение частоты запросов
+  alt Запрос корректен
+    API -> DB : Транзакция: сохранить только лучший результат;\nупорядочить и оставить до 1000 записей [NFR-04]
+    DB --> API : Топ-10 и персональная позиция
+    API --> A : Подтверждение; top + player [FR-08]
+    A -> L : Удалить подтверждённый pending
+    A --> U : Показать топ-10 и собственную строку
+  else Данные отклонены
+    API --> A : Ошибка проверки данных
+    A -> A : Записать предупреждение об отклонении результата
+  end
+end
+opt После ошибки связи остался pending; начата следующая попытка отправки
+  A -> L : Прочитать лучший неотправленный результат
+  L --> A : playerId, nickname, timeMs
+  A -> API : Повторить HTTPS POST [FR-10]
+  API -> DB : Идемпотентное обновление лучшего результата
+  DB --> API : Актуальный рейтинг
+  API --> A : Подтверждение, top + player
+  A -> L : Удалить подтверждённый pending
+end
+U -> A : Открыть рейтинг
+A -> API : HTTPS GET /api/v1/leaderboard\nс контекстом текущего playerId [FR-08]
+API -> DB : Прочитать топ-10 и позицию текущего игрока
+DB --> API : Публичные поля рейтинга
+API --> A : Никнейм, время, место; признак своей строки
+A --> U : Топ-10; своя строка отдельно, если ниже
+note over A,API
+  На рисунке повторный POST и GET показаны для успешной связи.
+  При ошибке POST pending сохраняется; при ошибке GET снимается экран загрузки.
+  Публичный список не содержит playerId [NFR-05].
+end note
+@enduml

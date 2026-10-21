@@ -2,11 +2,71 @@
   "recentFiles": [
     {
       "basename": "report",
+      "path": "docs/design/report.md"
+    },
+    {
+      "basename": "report",
       "path": "docs/research/report.md"
+    },
+    {
+      "basename": "README",
+      "path": "assets/design/README.md"
+    },
+    {
+      "basename": "06-to-be",
+      "path": "assets/design/06-to-be.png"
+    },
+    {
+      "basename": "05-as-is",
+      "path": "assets/design/05-as-is.png"
+    },
+    {
+      "basename": "01-gameplay",
+      "path": "assets/design/01-gameplay.png"
+    },
+    {
+      "basename": "02-leaderboard-sequence",
+      "path": "assets/design/02-leaderboard-sequence.png"
+    },
+    {
+      "basename": "game-item-card",
+      "path": "assets/research/game-item-card.webp"
+    },
+    {
+      "basename": "game-achievements",
+      "path": "assets/research/game-achievements.webp"
     },
     {
       "basename": "lab2",
       "path": "course/lab2.md"
+    },
+    {
+      "basename": "lab3",
+      "path": "course/lab3.md"
+    },
+    {
+      "basename": "feedback",
+      "path": "course/feedback.md"
+    },
+    {
+      "basename": "assignments",
+      "path": "course/assignments.md"
+    },
+    {
+      "basename": "survey-2024-willingness",
+      "path": "assets/research/survey-2024-willingness.png"
+    },
+    {
+      "basename": "survey-2024-participants",
+      "path": "assets/research/survey-2024-participants.png"
+    },
+    {
+      "basename": "survey-2024-navigation",
+      "path": "assets/research/survey-2024-navigation.png"
+    },
+    {
+      "basename": "survey-2024-game-interest",
+      "path": "assets/research/survey-2024-game-interest.png"
     },
     {
       "basename": "pilot-2025-navigation",
@@ -15,6 +75,18 @@
     {
       "basename": "pilot-2025-knowledge",
       "path": "assets/research/pilot-2025-knowledge.png"
+    },
+    {
+      "basename": "pilot-2025-communication",
+      "path": "assets/research/pilot-2025-communication.png"
+    },
+    {
+      "basename": "game-locations",
+      "path": "assets/research/game-locations.webp"
+    },
+    {
+      "basename": "game-hidden-object",
+      "path": "assets/research/game-hidden-object.webp"
     },
     {
       "basename": "README",
@@ -127,74 +199,6 @@
     {
       "basename": "Pasted image 20260808162308",
       "path": "Кэш (картинки, вложения и т.д)/Pasted image 20260808162308.png"
-    },
-    {
-      "basename": "Оценка ГДД Полный",
-      "path": "Оценка ГДД Полный.md"
-    },
-    {
-      "basename": "0 Концепт",
-      "path": "Eva-Projects/Артмастерс/Заочный/2-я концепция/0 Концепт.md"
-    },
-    {
-      "basename": "Ответы экспертов",
-      "path": "Eva-Projects/Артмастерс/Заочный/Эксперты/Ответы экспертов.md"
-    },
-    {
-      "basename": "Путь Арктики — игровые циклы v2",
-      "path": "Eva-Projects/Артмастерс/Заочный/2-я концепция/Схемы/Путь Арктики — игровые циклы v2.canvas"
-    },
-    {
-      "basename": "ArtMasters_СМП_концепт_и_ГДД",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/ArtMasters_СМП_концепт_и_ГДД.md"
-    },
-    {
-      "basename": "0_Учебная_проводка_единый_GDD",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/0_Учебная_проводка_единый_GDD.md"
-    },
-    {
-      "basename": "01_База_знаний_СМП_для_игры",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/01_База_знаний_СМП_для_игры.md"
-    },
-    {
-      "basename": "Судна для игры",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/Судна для игры.md"
-    },
-    {
-      "basename": "Вопросы кратко",
-      "path": "Eva-Projects/Артмастерс/Заочный/Эксперты/Вопросы кратко.md"
-    },
-    {
-      "basename": "Вопросы эксперту ледокольного флота",
-      "path": "Eva-Projects/Артмастерс/Заочный/Эксперты/Вопросы эксперту ледокольного флота.md"
-    },
-    {
-      "basename": "05_Фаза_3_Непредвиденное_событие",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/05_Фаза_3_Непредвиденное_событие.md"
-    },
-    {
-      "basename": "06_Маскот_Капитан_Мур",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/06_Маскот_Капитан_Мур.md"
-    },
-    {
-      "basename": "02_Краткий_обзор_трех_фаз",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/02_Краткий_обзор_трех_фаз.md"
-    },
-    {
-      "basename": "03_Фаза_1_Создание_каравана",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/03_Фаза_1_Создание_каравана.md"
-    },
-    {
-      "basename": "04_Фаза_2_Маршрут_по_точкам",
-      "path": "Eva-Projects/Артмастерс/Заочный/1-я концепция/04_Фаза_2_Маршрут_по_точкам.md"
-    },
-    {
-      "basename": "Респавн Гранты Преза",
-      "path": "Eva-Projects/Notes/Респавн Гранты Преза.md"
-    },
-    {
-      "basename": "Респавн Гранты Преза — обновлено 2",
-      "path": "Eva-Projects/Notes/Респавн Гранты Преза — обновлено 2.md"
     }
   ],
   "omittedPaths": [],
