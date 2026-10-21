@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "59f4e584117e2220",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d87d61a17abd227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80688b7610029a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/research/report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "report"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d99ff75a4965234",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f863f2150e0811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c059d462f0da78b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d44d8cc82f5711ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "7b60bf0b0f8c651c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "1a62b08bff3f69cd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 406.5
+  },
+  "right": {
+    "id": "b74672d0ee9572ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ebf399125024dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e1c8d32a5e0244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eva-Projects/Артмастерс/Заочный/2-я концепция/2 Концепт (без картинок в таблице).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "cebed149e4c4f159",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Eva-Projects/Артмастерс/Заочный/2-я концепция/2 Концепт (без картинок в таблице).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "0124754660da7974",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "535211d7845dbbd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Eva-Projects/Артмастерс/Заочный/2-я концепция/2 Концепт (без картинок в таблице).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "4fa6140fb00c9d4e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "4612b567bda4999a",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
+            }
+          },
+          {
+            "id": "2692aec62f12e719",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "9a284c106e772efd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d80688b7610029a6",
+  "lastOpenFiles": [
+    "course/lab2.md",
+    "docs/design/report.md",
+    "assets/research/pilot-2025-navigation.png",
+    "assets/research/pilot-2025-knowledge.png",
+    "README.md",
+    "Eva-Projects/Учёба 2026/Drawing 2026-10-01 16.27.45.excalidraw.md",
+    "Eva-Projects/Учёба 2026/КомпЗрение/Текст_выступления_к_презентации.md",
+    "Eva-Projects/Учёба 2026/КомпЗрение",
+    "Eva-Projects/Идеи/Своя Игра по Видеоиграм.md",
+    "Eva-Projects/Идеи/СВОЯК 1.md",
+    "Eva-Projects/Артмастерс/Посты/О моей игре.md",
+    "Eva-Projects/Идеи/Без названия.md",
+    "Временное.md",
+    "Без названия.md",
+    "Кэш (картинки, вложения и т.д)/Pasted Image 20261002211523_078.png",
+    "Кэш (картинки, вложения и т.д)/Pasted Image 20261001164759_298.png",
+    "Кэш (картинки, вложения и т.д)/Pasted Image 20261001163614_891.png",
+    "Кэш (картинки, вложения и т.д)/Pasted Image 20261001163454_639.png",
+    "Кэш (картинки, вложения и т.д)/Pasted Image 20261001163338_835.png",
+    "Кэш (картинки, вложения и т.д)/Pasted Image 20261001162746_220.png",
+    "Eva-Projects/Учёба 2026/Без названия.canvas",
+    "Eva-Projects/Учёба 2026/Без названия.md",
+    "Eva-Projects/Учёба 2026",
+    "Eva-Projects/Артмастерс/Заочный/Заочный этап AM.md",
+    "Eva-Projects/Артмастерс/Посты",
+    "Eva-Projects/Артмастерс/Заочный/Судна Arc.md",
+    "Eva-Projects/СтудСтартап/GDD.md",
+    "Eva-Projects/СтудСтартап/itmo_igra_v_adaptaciyu_teksty_dlya_sayta.md",
+    "Eva-Projects/СтудСтартап/Распределение предметов корпуса Биржа.md",
+    "Eva-Projects/СтудСтартап/Аудит наполнения префабов Биржи.md",
+    "Eva-Projects/СтудСтартап/Список всех предметов для интеграции.md",
+    "Eva-Projects/СтудСтартап",
+    "Our-Space.zip",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/2 Концепт (без картинок в таблице).md",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/Вопросы для концепта.md",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/План концепта.md",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/Структура концепта.md",
+    "Eva-Projects/Артмастерс/Заочный/Важные ссылки.md",
+    "Кэш (картинки, вложения и т.д)/Машков.png",
+    "Кэш (картинки, вложения и т.д)/Pasted image 20260813134331.png",
+    "Кэш (картинки, вложения и т.д)/03. Paris.mp3",
+    "Кэш (картинки, вложения и т.д)/1-01. Stereo Madness.mp3",
+    "Кэш (картинки, вложения и т.д)/1-01. Wake Up, Get Up, Get Out There.mp3",
+    "Кэш (картинки, вложения и т.д)/1-03. Subwoofer Lullaby.mp3",
+    "Кэш (картинки, вложения и т.д)/01 - Glass Ocean.mp3",
+    "Eva-Projects/Meowballs-Game-Who-am-I/ТЗшки/Зал Кафе 2D Художник.md",
+    "Eva-Projects/Meowballs-Game-Who-am-I/ТЗшки/Кухня 2D Художник.md",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/Схемы/Путь Арктики — игровые циклы v2.canvas",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/Схемы/Путь Арктики — игровые циклы.canvas",
+    "Eva-Projects/Артмастерс/Заочный/2-я концепция/Схемы/Основной игровой цикл.canvas",
+    "Без названия.canvas"
+  ]
+}

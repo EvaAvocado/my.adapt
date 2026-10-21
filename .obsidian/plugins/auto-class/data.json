@@ -1,0 +1,28 @@
+{
+  "matches": [
+    {
+      "path": "Eva-Projects/OLD_Meowballs-Game-Who-am-I",
+      "scope": "Read & Edit",
+      "classes": [
+        "meowballs-game"
+      ]
+    },
+    {
+      "path": "Eva-Projects",
+      "scope": "Read & Edit",
+      "classes": [
+        "table-full-width",
+        "eva-todo"
+      ]
+    },
+    {
+      "path": "Eva-Projects/Meowballs-Game-Who-am-I",
+      "scope": "Read & Edit",
+      "classes": [
+        "meowballs-game"
+      ]
+    }
+  ],
+  "version": "2.3.0",
+  "usePathGlob": false
+}
