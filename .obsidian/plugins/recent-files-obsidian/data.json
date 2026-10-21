@@ -9,10 +9,6 @@
       "path": "course/lab2.md"
     },
     {
-      "basename": "report",
-      "path": "docs/design/report.md"
-    },
-    {
       "basename": "pilot-2025-navigation",
       "path": "assets/research/pilot-2025-navigation.png"
     },
