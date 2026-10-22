@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "catGame-headers-color",
+    "test",
+    "eva-todo",
+    "table-full-width",
+    "catGame-headers-color-centered-first-two",
+    "center-first-two-lines"
+  ]
+}

@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="Electron" agent="draw.io Desktop" version="32.4.1" type="device">
+  <diagram id="04-containers" name="04-containers">
+    <mxGraphModel dx="1200" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ent0003" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=none;strokeColor=#444;strokeWidth=1.2;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="20.417" y="374.239" width="1470.0" height="990.208" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#444;font-weight:bold;&quot;&gt;my.adapt — ИТМО: Игра в адаптацию&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#444;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="518.312" y="2.896" width="438.376" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#444;font-weight:bold;&quot;&gt;[system]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#444;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="699.978" y="33.936" width="75.043" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0001" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#08427B;strokeColor=#073B6F;strokeWidth=1.2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.979" y="77.468" width="317.133" height="189.898" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;shape=umlActor;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="134.566" y="12" width="48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Игрок&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="123.669" y="89.947" width="74.795" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Первокурсник&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;или&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;абитуриент&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="14.584" y="148.141" width="292.966" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0002" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#08427B;strokeColor=#073B6F;strokeWidth=1.2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1121.458" y="63.614" width="268.066" height="217.054" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;shape=umlActor;fillColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="110.033" y="12" width="48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Посетитель&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;сайта&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="34.268" y="89.947" width="204.53" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Знакомится&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;с&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;проектом&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="14.584" y="148.141" width="244.285" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;рейтингом&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="83.694" y="175.296" width="105.678" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0011" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#999;strokeColor=#8A8A8A;strokeWidth=1.2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1513.75" y="854.031" width="318.13" height="141.669" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Хранилище&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;APK&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="66.108" y="14.562" width="190.915" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Внешняя&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;страница&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;скачивания&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="14.583" y="72.756" width="293.963" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Android-версии&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="85.269" y="99.911" width="152.592" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0004" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#438DD5;strokeColor=#3C7FC0;strokeWidth=1.2;rounded=0;" vertex="1" parent="ent0003">
+          <mxGeometry x="253.021" y="93.333" width="313.495" height="219.257" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Мобильная&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;игра&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="61.585" y="14.563" width="195.323" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[Unity&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;C#&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;Android]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="73.853" y="45.603" width="170.788" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;QR&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;ввод&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;кода,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;панорамы,&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="28.624" y="96.033" width="261.245" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;коллекция,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;достижения,&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="43.797" y="123.188" width="230.9" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;локальный&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;соперник&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;клиент&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="14.583" y="150.344" width="289.328" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;рейтинга&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="114.363" y="177.5" width="89.767" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0005" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;shape=cylinder3;size=15;boundedLbl=1;backgroundOutline=1;fillColor=#438DD5;strokeColor=#3C7FC0;" vertex="1" parent="ent0003">
+          <mxGeometry x="23.333" y="447.708" width="288.599" height="205.227" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Игровой&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;контент&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="46.642" y="34.979" width="200.315" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[Ресурсы&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;Unity&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;ScriptableObject]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="14.583" y="66.02" width="264.433" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Локации,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;подсказки&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="50.186" y="116.449" width="193.226" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;маршрутов,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;панорамы,&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="35.467" y="143.605" width="222.665" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;предметы&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;карточки&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="42.814" y="170.761" width="207.971" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0006" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;shape=cylinder3;size=15;boundedLbl=1;backgroundOutline=1;fillColor=#438DD5;strokeColor=#3C7FC0;" vertex="1" parent="ent0003">
+          <mxGeometry x="338.333" y="461.563" width="315.628" height="178.07" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Локальный&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;прогресс&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="37.587" y="34.979" width="245.454" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[Android&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;Unity&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;PlayerPrefs]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="49.477" y="66.019" width="221.674" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Открытия,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;находки,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;коллекция&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="14.583" y="116.449" width="291.461" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;настройки&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="100.178" y="143.604" width="120.273" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0007" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;shape=cylinder3;size=15;boundedLbl=1;backgroundOutline=1;fillColor=#438DD5;strokeColor=#3C7FC0;" vertex="1" parent="ent0003">
+          <mxGeometry x="680.312" y="447.708" width="309.987" height="205.227" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Идентичность&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;pending&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="14.584" y="34.979" width="285.82" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[JSON&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;persistentDataPath]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="48.708" y="66.02" width="217.571" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Постоянный&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;playerId&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;один&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="22.829" y="116.449" width="269.33" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;лучший&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;неотправленный&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="36.516" y="143.605" width="241.955" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;результат&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="110.073" y="170.761" width="94.841" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0008" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#438DD5;strokeColor=#3C7FC0;strokeWidth=1.2;rounded=0;" vertex="1" parent="ent0003">
+          <mxGeometry x="1075.521" y="120.313" width="318.928" height="164.945" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Веб-интерфейс&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="72.163" y="14.562" width="179.601" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[HTML&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;CSS&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;JavaScript&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;в&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;браузере]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="18.562" y="45.602" width="286.803" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Описание,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;скриншоты,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;ссылка&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="17.344" y="96.032" width="289.238" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;на&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;загрузку,&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;публичный&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;топ-10&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="14.583" y="123.188" width="294.761" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0009" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#438DD5;strokeColor=#3C7FC0;strokeWidth=1.2;rounded=0;" vertex="1" parent="ent0003">
+          <mxGeometry x="1035.416" y="454.271" width="253.992" height="192.101" as="geometry" />
+        </mxCell>
+        <mxCell id="c37" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;Веб-сервис&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="62.556" y="14.562" width="133.88" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c38" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[ASP.NET&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;Core&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;Minimal&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;API]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="14.584" y="45.603" width="229.826" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;Выдача&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;файлов&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;сайта;&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="24.24" y="96.032" width="210.513" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;проверка&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;запросов&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;и&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="26.857" y="123.188" width="205.666" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;обработка&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;рейтинга&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="32.38" y="150.344" width="194.233" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0010" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;shape=cylinder3;size=15;boundedLbl=1;backgroundOutline=1;fillColor=#438DD5;strokeColor=#3C7FC0;" vertex="1" parent="ent0003">
+          <mxGeometry x="1010.625" y="788.958" width="302.867" height="178.071" as="geometry" />
+        </mxCell>
+        <mxCell id="c42" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;База&lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:23.333px;color:#FFF;font-weight:bold;&quot;&gt;рейтинга&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="70.872" y="34.979" width="166.123" height="29.166" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#FFF;font-style:italic;&quot;&gt;[SQLite]&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="121.761" y="66.02" width="64.344" height="21.875" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;До&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;1000&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;лучших&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;результатов;&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="14.583" y="116.449" width="278.701" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;одна&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;запись&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;на&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;playerId&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#FFF;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="41.659" y="143.605" width="224.549" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0.499;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0001" target="ent0004">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.208" y="267.409" as="sourcePoint" />
+            <mxPoint x="430.208" y="455.757" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430.208" y="327.232" />
+              <mxPoint x="430.208" y="393.327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c47" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Играет&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;читает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;карточки&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c46">
+          <mxGeometry x="0" y="0" width="262.173" height="25.521" relative="1" as="geometry">
+            <mxPoint x="2.917" y="-51.529" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c48" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[Касания;&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;камера&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;устройства]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c46">
+          <mxGeometry x="0" y="0" width="253.05" height="21.875" relative="1" as="geometry">
+            <mxPoint x="7.478" y="-24.371" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c49" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0002" target="ent0008">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1255.625" y="281.385" as="sourcePoint" />
+            <mxPoint x="1255.625" y="482.639" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1255.625" y="348.328" />
+              <mxPoint x="1255.625" y="421.35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c50" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Знакомится&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;с&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;проектом&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c49">
+          <mxGeometry x="0" y="0" width="241.915" height="25.521" relative="1" as="geometry">
+            <mxPoint x="2.917" y="-71.958" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c51" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[Браузер]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c49">
+          <mxGeometry x="0" y="0" width="78.939" height="21.875" relative="1" as="geometry">
+            <mxPoint x="84.405" y="-44.8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c52" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0;exitY=0.603;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.162;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0004" target="ent0005">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273.201" y="599.733" as="sourcePoint" />
+            <mxPoint x="90.46" y="811.731" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="204.202" y="617.778" />
+              <mxPoint x="129.458" y="651.087" />
+              <mxPoint x="87.5" y="712.572" />
+              <mxPoint x="64.533" y="746.227" />
+              <mxPoint x="69.141" y="775.91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c53" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Читает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;контент&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c52">
+          <mxGeometry x="0" y="0" width="157.348" height="25.521" relative="1" as="geometry">
+            <mxPoint x="-25.554" y="64.296" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c54" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[Локально&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[NFR-01]]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c52">
+          <mxGeometry x="0" y="0" width="165.294" height="21.875" relative="1" as="geometry">
+            <mxPoint x="-29.527" y="91.455" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c55" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0.045;exitY=1.0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.014;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0004" target="ent0006">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="287.617" y="686.743" as="sourcePoint" />
+            <mxPoint x="363.199" y="830.344" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="258.906" y="721.372" />
+              <mxPoint x="244.361" y="759.983" />
+              <mxPoint x="269.792" y="795.697" />
+              <mxPoint x="290.479" y="824.75" />
+              <mxPoint x="313.275" y="806.93" />
+              <mxPoint x="345.625" y="821.947" />
+              <mxPoint x="354.844" y="826.227" />
+              <mxPoint x="353.853" y="825.485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c56" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Читает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;сохраняет&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;прогресс&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c55">
+          <mxGeometry x="0" y="0" width="290.116" height="25.521" relative="1" as="geometry">
+            <mxPoint x="5.203" y="-63.161" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c57" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[Локально&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[NFR-03]]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c55">
+          <mxGeometry x="0" y="0" width="165.294" height="21.875" relative="1" as="geometry">
+            <mxPoint x="67.614" y="-36.003" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c58" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0.854;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0004" target="ent0007">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541.134" y="686.438" as="sourcePoint" />
+            <mxPoint x="690.048" y="823.183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="547.888" y="694.988" />
+              <mxPoint x="554.262" y="703.74" />
+              <mxPoint x="560.0" y="712.572" />
+              <mxPoint x="581.705" y="745.979" />
+              <mxPoint x="563.874" y="769.109" />
+              <mxPoint x="593.542" y="795.697" />
+              <mxPoint x="625.631" y="824.456" />
+              <mxPoint x="647.304" y="804.891" />
+              <mxPoint x="686.875" y="821.947" />
+              <mxPoint x="691.434" y="823.912" />
+              <mxPoint x="685.454" y="821.03" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c59" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Читает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;сохраняет&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;UUID&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;и&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c58">
+          <mxGeometry x="0" y="0" width="269.737" height="25.521" relative="1" as="geometry">
+            <mxPoint x="6.298" y="-77.195" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c60" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;pending&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c58">
+          <mxGeometry x="0" y="0" width="84.493" height="25.521" relative="1" as="geometry">
+            <mxPoint x="99.2" y="-50.039" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c61" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[Локально&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[FR-10]]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c58">
+          <mxGeometry x="0" y="0" width="152.152" height="21.875" relative="1" as="geometry">
+            <mxPoint x="65.371" y="-22.881" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c62" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=1;exitY=0.619;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0004" target="ent0009">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587.031" y="603.297" as="sourcePoint" />
+            <mxPoint x="1045.434" y="832.223" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="674.085" y="622.673" />
+              <mxPoint x="781.065" y="656.114" />
+              <mxPoint x="863.333" y="712.572" />
+              <mxPoint x="902.143" y="739.206" />
+              <mxPoint x="889.75" y="769.653" />
+              <mxPoint x="928.958" y="795.697" />
+              <mxPoint x="965.372" y="819.885" />
+              <mxPoint x="983.814" y="804.167" />
+              <mxPoint x="1023.75" y="821.947" />
+              <mxPoint x="1034.364" y="826.673" />
+              <mxPoint x="1034.829" y="826.488" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c63" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Отправляет&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;рекорд;&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;читает&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c62">
+          <mxGeometry x="0" y="0" width="277.355" height="25.521" relative="1" as="geometry">
+            <mxPoint x="84.289" y="13.705" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c64" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;топ&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;и&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;своё&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;место&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c62">
+          <mxGeometry x="0" y="0" width="172.59" height="25.521" relative="1" as="geometry">
+            <mxPoint x="136.672" y="40.861" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c65" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[HTTPS&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;JSON&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[FR-07,&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;FR-08]]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c62">
+          <mxGeometry x="0" y="0" width="236.139" height="21.875" relative="1" as="geometry">
+            <mxPoint x="104.897" y="68.02" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c66" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0.447;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.588;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0008" target="ent0009">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1238.437" y="659.705" as="sourcePoint" />
+            <mxPoint x="1205.166" y="817.078" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1227.743" y="710.289" />
+              <mxPoint x="1216.357" y="764.144" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c67" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Загружает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;файлы&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;сайта&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;и&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c66">
+          <mxGeometry x="0" y="0" width="259.798" height="25.521" relative="1" as="geometry">
+            <mxPoint x="7.573" y="-22.921" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c68" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;публичный&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;топ-10&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c66">
+          <mxGeometry x="0" y="0" width="191.86" height="25.521" relative="1" as="geometry">
+            <mxPoint x="41.822" y="4.235" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c69" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[HTTPS&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[FR-09]]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c66">
+          <mxGeometry x="0" y="0" width="125.27" height="21.875" relative="1" as="geometry">
+            <mxPoint x="75.117" y="31.393" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c70" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=1;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.323;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0008" target="ent0011">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1415.46" y="658.284" as="sourcePoint" />
+            <mxPoint x="1616.48" y="844.449" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1442.552" y="674.676" />
+              <mxPoint x="1469.572" y="692.972" />
+              <mxPoint x="1493.333" y="712.572" />
+              <mxPoint x="1543.182" y="753.691" />
+              <mxPoint x="1583.112" y="800.478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c71" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Открывает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;ссылку&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;на&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c70">
+          <mxGeometry x="0" y="0" width="219.315" height="25.521" relative="1" as="geometry">
+            <mxPoint x="49.865" y="-24.536" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c72" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;скачивание&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c70">
+          <mxGeometry x="0" y="0" width="121.439" height="25.521" relative="1" as="geometry">
+            <mxPoint x="98.804" y="2.62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c73" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[HTTPS]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c70">
+          <mxGeometry x="0" y="0" width="65.208" height="21.875" relative="1" as="geometry">
+            <mxPoint x="126.919" y="29.778" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c74" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0009" target="ent0010">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1182.708" y="1021.38" as="sourcePoint" />
+            <mxPoint x="1182.708" y="1151.087" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1182.708" y="1066.073" />
+              <mxPoint x="1182.708" y="1107.343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c75" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;Читает&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;рейтинг;&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;атомарно&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c74">
+          <mxGeometry x="0" y="0" width="266.728" height="25.521" relative="1" as="geometry">
+            <mxPoint x="2.917" y="-29.513" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c76" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;обновляет&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#666;font-weight:bold;&quot;&gt;рекорд&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c74">
+          <mxGeometry x="0" y="0" width="189.508" height="25.521" relative="1" as="geometry">
+            <mxPoint x="41.527" y="-2.357" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c77" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[SQL&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;транзакция&lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:17.5px;color:#666;font-style:italic;&quot;&gt;[NFR-04]]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#666;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c74">
+          <mxGeometry x="0" y="0" width="233.67" height="21.875" relative="1" as="geometry">
+            <mxPoint x="19.446" y="24.801" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c78" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;font-weight:bold;&quot;&gt;my.adapt — C4: диаграмма контейнеров&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="714.255" y="14.565" width="409.615" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c79" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=none;strokeColor=none;strokeWidth=1.2;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1612.75" y="1418.406" width="195.583" height="27.156" as="geometry" />
+        </mxCell>
+        <mxCell id="c80" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#08427B;strokeColor=none;strokeWidth=1.2;rounded=0;" vertex="1" parent="c79">
+          <mxGeometry x="0.0" y="27.156" width="195.583" height="27.156" as="geometry" />
+        </mxCell>
+        <mxCell id="c81" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#438DD5;strokeColor=none;strokeWidth=1.2;rounded=0;" vertex="1" parent="c79">
+          <mxGeometry x="0.0" y="54.311" width="195.583" height="27.156" as="geometry" />
+        </mxCell>
+        <mxCell id="c82" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#999;strokeColor=none;strokeWidth=1.2;rounded=0;" vertex="1" parent="c79">
+          <mxGeometry x="0.0" y="81.467" width="195.583" height="27.156" as="geometry" />
+        </mxCell>
+        <mxCell id="c83" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=none;strokeColor=none;strokeWidth=1.2;rounded=0;" vertex="1" parent="c79">
+          <mxGeometry x="0.0" y="108.623" width="195.583" height="27.156" as="geometry" />
+        </mxCell>
+        <mxCell id="c84" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;font-weight:bold;&quot;&gt;Legend&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="c79" connectable="0">
+          <mxGeometry x="0.0" y="-0.019" width="93.045" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c85" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#073B6F;&quot;&gt;▯&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;person&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#073B6F;movable=0;resizable=0;part=1;" vertex="1" parent="c79" connectable="0">
+          <mxGeometry x="5.593" y="27.137" width="133.603" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c86" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#3C7FC0;&quot;&gt;▯&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;container&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#3C7FC0;movable=0;resizable=0;part=1;" vertex="1" parent="c79" connectable="0">
+          <mxGeometry x="5.593" y="54.293" width="131.735" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c87" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#8A8A8A;&quot;&gt;▯&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt;external system&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#8A8A8A;movable=0;resizable=0;part=1;" vertex="1" parent="c79" connectable="0">
+          <mxGeometry x="5.593" y="81.449" width="186.814" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c88" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#444;&quot;&gt;▯&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#444;&quot;&gt;system boundary&lt;/span&gt;&lt;span style=&quot;font-size:20.417px;color:#FFF;&quot;&gt; &lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#444;movable=0;resizable=0;part=1;" vertex="1" parent="c79" connectable="0">
+          <mxGeometry x="5.593" y="108.604" width="201.648" height="25.521" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

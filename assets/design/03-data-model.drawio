@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="Electron" agent="draw.io Desktop" version="32.4.1" type="device">
+  <diagram id="03-data-model" name="03-data-model">
+    <mxGraphModel dx="1200" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ent0001" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="435.313" y="75.281" width="242.08" height="146.54" as="geometry" />
+        </mxCell>
+        <mxCell id="c1" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Корпус&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="87.589" y="7.273" width="71.902" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c2" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;buildingId : ключ «PK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="27.708" y="47.554" width="210.622" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;название&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="8.75" y="86.376" width="91.801" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;адрес&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="8.75" y="113.532" width="58.664" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="1.458" y="41.739" width="239.164" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0001" connectable="0">
+          <mxGeometry x="1.458" y="80.561" width="239.164" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0002" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="416.354" y="275.072" width="280.132" height="173.695" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Локация&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="99.756" y="7.274" width="85.62" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;locationId : ключ «PK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="27.709" y="47.555" width="208.738" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;buildingId : ключ «FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="27.709" y="86.377" width="209.157" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;название&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="27.709" y="113.533" width="91.801" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;QR / четырёхзначный код&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="27.709" y="140.688" width="248.674" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="1.459" y="41.74" width="277.215" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0002" connectable="0">
+          <mxGeometry x="1.459" y="80.562" width="277.215" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0003" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="719.688" y="547.052" width="259.457" height="146.54" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Панорама&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="81.826" y="7.273" width="100.803" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;panoramaId : ключ «PK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="27.708" y="47.554" width="227.998" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;locationId : ключ «FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="27.708" y="86.376" width="207.273" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;имя / ресурс панорамы&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="27.708" y="113.532" width="226.752" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="1.458" y="41.739" width="256.54" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0003" connectable="0">
+          <mxGeometry x="1.458" y="80.561" width="256.54" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0004" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="687.604" y="760.697" width="291.288" height="119.384" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Размещение предмета&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="39.264" y="7.274" width="217.76" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;panoramaId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="27.709" y="47.555" width="259.83" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;itemKey : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="27.709" y="74.71" width="223.532" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="1.459" y="41.74" width="288.371" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0004" connectable="0">
+          <mxGeometry x="1.459" y="107.718" width="288.371" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0005" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="8.75" y="275.072" width="223.159" height="173.695" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Предмет&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="70.686" y="7.274" width="86.786" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;itemKey : ключ «PK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="27.708" y="47.555" width="191.701" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c27" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;название&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="8.75" y="86.377" width="91.801" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;описание&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="8.75" y="113.533" width="94.752" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;изображение&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="8.75" y="140.688" width="132.375" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="1.458" y="41.74" width="220.243" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0005" connectable="0">
+          <mxGeometry x="1.458" y="80.562" width="220.243" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0006" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="420.0" y="560.177" width="272.028" height="119.384" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Открытие локации&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="47.942" y="7.273" width="181.144" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;playerId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="27.708" y="47.554" width="223.452" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;locationId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="27.708" y="74.709" width="240.569" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="1.458" y="41.739" width="269.111" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0006" connectable="0">
+          <mxGeometry x="1.458" y="107.717" width="269.111" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0007" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="909.271" y="302.052" width="221.843" height="119.384" as="geometry" />
+        </mxCell>
+        <mxCell id="c37" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Локальный профиль&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="14.087" y="7.273" width="198.669" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c38" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;playerId : UUID «PK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="27.708" y="47.554" width="190.385" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c39" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;никнейм&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="8.75" y="86.376" width="87.454" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c40" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="1.458" y="41.739" width="218.927" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c41" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0007" connectable="0">
+          <mxGeometry x="1.458" y="80.561" width="218.927" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0008" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="818.854" y="934.239" width="291.288" height="146.54" as="geometry" />
+        </mxCell>
+        <mxCell id="c42" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Находка в панораме&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="49.024" y="7.273" width="198.241" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c43" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;playerId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="27.709" y="47.554" width="223.452" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c44" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;panoramaId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="27.709" y="74.71" width="259.83" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c45" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;itemKey : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="27.709" y="101.866" width="223.532" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c46" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="1.459" y="41.739" width="288.371" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c47" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0008" connectable="0">
+          <mxGeometry x="1.459" y="134.873" width="288.371" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0009" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="115.938" y="533.197" width="277.411" height="173.695" as="geometry" />
+        </mxCell>
+        <mxCell id="c48" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Запись коллекции&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="53.305" y="7.274" width="175.8" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c49" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;playerId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="27.708" y="47.555" width="223.452" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c50" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;itemKey : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="27.708" y="74.71" width="223.532" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c51" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;firstLocationId : ключ «FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="27.708" y="113.533" width="245.953" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c52" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;карточка просмотрена&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="27.708" y="140.688" width="220.242" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c53" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="1.458" y="41.74" width="274.494" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c54" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0009" connectable="0">
+          <mxGeometry x="1.458" y="107.718" width="274.494" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0010" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1061.667" y="547.052" width="310.232" height="146.54" as="geometry" />
+        </mxCell>
+        <mxCell id="c55" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Неотправленный результат&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="26.475" y="7.273" width="262.282" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c56" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;playerId : ключ «PK, FK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="27.708" y="47.554" width="223.452" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c57" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;никнейм для отправки&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="8.75" y="86.376" width="218.169" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c58" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;timeMs : положительное целое&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="8.75" y="113.532" width="297.732" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c59" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="1.458" y="41.739" width="307.315" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c60" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0010" connectable="0">
+          <mxGeometry x="1.458" y="80.561" width="307.315" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ent0011" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#F1F1F1;strokeColor=#181818;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1398.542" y="533.197" width="310.232" height="173.695" as="geometry" />
+        </mxCell>
+        <mxCell id="c61" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Рекорд в рейтинге&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="67.891" y="7.274" width="179.449" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c62" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;playerId : UUID «PK»&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="27.708" y="47.555" width="190.385" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c63" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;никнейм&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="8.75" y="86.377" width="87.454" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c64" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;timeMs : положительное целое&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="8.75" y="113.533" width="297.732" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c65" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;момент достижения&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="8.75" y="140.688" width="194.682" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c66" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="1.458" y="41.74" width="307.315" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c67" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=#777777;strokeColor=none;movable=0;resizable=0;part=1;" vertex="1" parent="ent0011" connectable="0">
+          <mxGeometry x="1.458" y="80.562" width="307.315" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c68" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;startSize=14;endSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0001" target="ent0002">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556.354" y="233.254" as="sourcePoint" />
+            <mxPoint x="556.354" y="263.291" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="556.354" y="250.423" />
+              <mxPoint x="556.354" y="245.581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c69" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;startSize=14;endSize=14;exitX=0.881;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.149;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0002" target="ent0003">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.167" y="456.298" as="sourcePoint" />
+            <mxPoint x="758.41" y="539.221" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="699.782" y="488.177" />
+              <mxPoint x="723.357" y="508.702" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c70" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;startSize=14;endSize=14;exitX=0.474;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.52;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0003" target="ent0004">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="842.698" y="704.954" as="sourcePoint" />
+            <mxPoint x="839.136" y="748.842" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840.907" y="727.024" />
+              <mxPoint x="840.846" y="727.776" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c71" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERoneToMany;endFill=0;startSize=14;endSize=14;exitX=0.331;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0005" target="ent0004">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="82.606" y="459.814" as="sourcePoint" />
+            <mxPoint x="675.897" y="817.864" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58.134" y="536.538" />
+              <mxPoint x="42.553" y="636.51" />
+              <mxPoint x="102.813" y="706.739" />
+              <mxPoint x="176.615" y="792.751" />
+              <mxPoint x="484.707" y="813.248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c72" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0.291;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.919;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0007" target="ent0006">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="973.786" y="431.351" as="sourcePoint" />
+            <mxPoint x="669.858" y="547.606" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950.338" y="461.699" />
+              <mxPoint x="924.951" y="487.178" />
+              <mxPoint x="887.396" y="506.947" />
+              <mxPoint x="815.532" y="544.777" />
+              <mxPoint x="783.384" y="506.855" />
+              <mxPoint x="706.563" y="533.197" />
+              <mxPoint x="686.421" y="540.104" />
+              <mxPoint x="689.002" y="537.283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c73" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.501;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0002" target="ent0006">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556.354" y="460.659" as="sourcePoint" />
+            <mxPoint x="556.354" y="533.745" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="556.354" y="497.15" />
+              <mxPoint x="556.354" y="500.869" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c74" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0.499;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.582;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0007" target="ent0008">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1019.993" y="433.409" as="sourcePoint" />
+            <mxPoint x="988.252" y="908.117" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1019.26" y="529.512" />
+              <mxPoint x="1014.917" y="715.077" />
+              <mxPoint x="992.396" y="880.281" />
+              <mxPoint x="990.016" y="897.735" />
+              <mxPoint x="992.023" y="890.705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c75" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0.668;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.273;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0004" target="ent0008">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="882.108" y="890.086" as="sourcePoint" />
+            <mxPoint x="898.285" y="912.733" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="894.261" y="907.101" />
+              <mxPoint x="885.632" y="895.019" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c76" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0;exitY=0.795;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0007" target="ent0009">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="897.579" y="397.009" as="sourcePoint" />
+            <mxPoint x="417.037" y="528.087" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="722.252" y="445.266" />
+              <mxPoint x="412.089" y="530.746" />
+              <mxPoint x="406.146" y="533.197" />
+              <mxPoint x="401.817" y="534.983" />
+              <mxPoint x="421.409" y="526.127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c77" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0.726;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.293;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0005" target="ent0009">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170.79" y="459.319" as="sourcePoint" />
+            <mxPoint x="197.334" y="509.811" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185.026" y="486.398" />
+              <mxPoint x="183.107" y="482.748" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c78" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;startSize=14;endSize=14;exitX=0.108;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.937;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0002" target="ent0009">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446.505" y="456.169" as="sourcePoint" />
+            <mxPoint x="375.884" y="515.873" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="414.453" y="483.266" />
+              <mxPoint x="407.966" y="488.751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c79" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=14;endSize=14;exitX=0.735;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.28;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0007" target="ent0010">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1072.397" y="431.089" as="sourcePoint" />
+            <mxPoint x="1148.48" y="529.714" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1101.119" y="468.321" />
+              <mxPoint x="1118.011" y="490.218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c80" value="" style="edgeStyle=none;rounded=0;html=1;fontFamily=Segoe UI;fontSize=20.417;strokeColor=#40535B;strokeWidth=1.458;endArrow=block;endFill=1;endSize=10;curved=1;strokeColor=#666666;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToOne;endFill=0;startSize=14;endSize=14;dashed=1;exitX=1;exitY=0.978;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ent0007" target="ent0011">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1141.611" y="418.776" as="sourcePoint" />
+            <mxPoint x="1378.519" y="530.146" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1214.075" y="452.103" />
+              <mxPoint x="1300.023" y="492.134" />
+              <mxPoint x="1384.688" y="533.197" />
+              <mxPoint x="1389.127" y="535.351" />
+              <mxPoint x="1373.98" y="527.924" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c81" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;единый playerId&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;fontFamily=Segoe UI;resizable=0;" vertex="1" connectable="0" parent="c80">
+          <mxGeometry x="0" y="0" width="154.875" height="25.521" relative="1" as="geometry">
+            <mxPoint x="53.551" y="-3.053" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c82" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;font-weight:bold;&quot;&gt;Логическая ER-модель: контент, прогресс и рейтинг&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;" vertex="1" parent="1" connectable="0">
+          <mxGeometry x="599.542" y="14.565" width="528.207" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c83" value="" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;fillColor=none;strokeColor=#000;strokeWidth=1.2;rounded=1;arcSize=16;" vertex="1" parent="1">
+          <mxGeometry x="516.256" y="1112.156" width="689.779" height="123.206" as="geometry" />
+        </mxCell>
+        <mxCell id="c84" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Контент: 3 корпуса, 20 локаций, 60 панорам, по 25 предметов.&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="c83" connectable="0">
+          <mxGeometry x="7.292" y="7.273" width="592.318" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c85" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Всего 400 уникальных предметов в коллекции.&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="c83" connectable="0">
+          <mxGeometry x="7.292" y="34.429" width="445.783" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c86" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Прогресс: PlayerPrefs; идентичность и pending: локальный JSON.&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="c83" connectable="0">
+          <mxGeometry x="7.292" y="61.585" width="609.794" height="25.521" as="geometry" />
+        </mxCell>
+        <mxCell id="c87" value="&lt;div style=&quot;white-space:pre;line-height:1.1;&quot;&gt;&lt;span style=&quot;font-size:20.417px;color:#000;&quot;&gt;Профиль локален устройству; облачной синхронизации коллекции нет.&lt;/span&gt;&lt;/div&gt;" style="html=1;fontFamily=Segoe UI;fontSize=21.875;shadow=0;text;html=1;align=left;verticalAlign=middle;whiteSpace=nowrap;overflow=visible;spacing=0;strokeColor=none;fillColor=none;fontColor=#000;movable=0;resizable=0;part=1;" vertex="1" parent="c83" connectable="0">
+          <mxGeometry x="7.292" y="88.74" width="680.196" height="25.521" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
