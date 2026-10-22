@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "assets/design/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "e9a15376f04e70b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/design/report.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "report"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,14 +243,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d80688b7610029a6",
+  "active": "e9a15376f04e70b9",
   "lastOpenFiles": [
-    "docs/research/report.md",
-    "docs/design/report.md",
     "assets/design/README.md",
+    "docs/design/report.md",
+    "assets/design/06-to-be.drawio",
+    "assets/design/05-as-is.drawio",
+    "assets/design/04-containers.drawio",
+    "assets/design/03-data-model.drawio",
+    "assets/design/02-leaderboard-sequence.drawio",
+    "assets/design/01-gameplay.drawio",
+    "course/lab3.md",
+    "assets/design/01-gameplay.png",
+    "docs/research/report.md",
     "assets/design/06-to-be.png",
     "assets/design/05-as-is.png",
-    "assets/design/01-gameplay.png",
     "assets/design/02-leaderboard-sequence.png",
     "assets/research/game-item-card.webp",
     "assets/research/game-achievements.webp",
@@ -245,11 +267,7 @@
     "assets/design/05-as-is.puml",
     "assets/design/04-containers.puml",
     "assets/design/03-data-model.puml",
-    "assets/design/02-leaderboard-sequence.puml",
-    "assets/design/01-gameplay.puml",
-    "assets/design",
     "course/lab2.md",
-    "course/lab3.md",
     "course/feedback.md",
     "course/assignments.md",
     "assets/research/survey-2024-willingness.png",
@@ -257,7 +275,6 @@
     "README.md",
     "Eva-Projects/Учёба 2026/Drawing 2026-10-01 16.27.45.excalidraw.md",
     "Eva-Projects/Учёба 2026/КомпЗрение/Текст_выступления_к_презентации.md",
-    "Eva-Projects/Учёба 2026/КомпЗрение",
     "Eva-Projects/Идеи/Своя Игра по Видеоиграм.md",
     "Eva-Projects/Идеи/СВОЯК 1.md",
     "Eva-Projects/Артмастерс/Посты/О моей игре.md",
@@ -266,9 +283,7 @@
     "Без названия.md",
     "Eva-Projects/Учёба 2026/Без названия.canvas",
     "Eva-Projects/Учёба 2026/Без названия.md",
-    "Eva-Projects/Учёба 2026",
     "Eva-Projects/Артмастерс/Заочный/Заочный этап AM.md",
-    "Eva-Projects/Артмастерс/Посты",
     "Eva-Projects/Артмастерс/Заочный/Судна Arc.md",
     "Eva-Projects/СтудСтартап/GDD.md",
     "Eva-Projects/СтудСтартап/itmo_igra_v_adaptaciyu_teksty_dlya_sayta.md",

@@ -5,12 +5,20 @@
       "path": "docs/design/report.md"
     },
     {
-      "basename": "report",
-      "path": "docs/research/report.md"
-    },
-    {
       "basename": "README",
       "path": "assets/design/README.md"
+    },
+    {
+      "basename": "lab3",
+      "path": "course/lab3.md"
+    },
+    {
+      "basename": "01-gameplay",
+      "path": "assets/design/01-gameplay.png"
+    },
+    {
+      "basename": "report",
+      "path": "docs/research/report.md"
     },
     {
       "basename": "06-to-be",
@@ -19,10 +27,6 @@
     {
       "basename": "05-as-is",
       "path": "assets/design/05-as-is.png"
-    },
-    {
-      "basename": "01-gameplay",
-      "path": "assets/design/01-gameplay.png"
     },
     {
       "basename": "02-leaderboard-sequence",
@@ -39,10 +43,6 @@
     {
       "basename": "lab2",
       "path": "course/lab2.md"
-    },
-    {
-      "basename": "lab3",
-      "path": "course/lab3.md"
     },
     {
       "basename": "feedback",
