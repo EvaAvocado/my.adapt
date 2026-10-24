@@ -5,6 +5,18 @@
       "path": "docs/design/report.md"
     },
     {
+      "basename": "report",
+      "path": "docs/research/report.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "lab2",
+      "path": "course/lab2.md"
+    },
+    {
       "basename": "README",
       "path": "assets/design/README.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "01-gameplay",
       "path": "assets/design/01-gameplay.png"
-    },
-    {
-      "basename": "report",
-      "path": "docs/research/report.md"
     },
     {
       "basename": "06-to-be",
@@ -39,10 +47,6 @@
     {
       "basename": "game-achievements",
       "path": "assets/research/game-achievements.webp"
-    },
-    {
-      "basename": "lab2",
-      "path": "course/lab2.md"
     },
     {
       "basename": "feedback",
@@ -87,10 +91,6 @@
     {
       "basename": "game-hidden-object",
       "path": "assets/research/game-hidden-object.webp"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Текст_выступления_к_презентации",
