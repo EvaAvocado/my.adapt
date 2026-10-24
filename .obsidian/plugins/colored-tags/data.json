@@ -1,0 +1,22 @@
+{
+  "palette": {
+    "seed": 2,
+    "selected": "custom",
+    "custom": "d20f39-fe640b-df8e1d-40a02b-1e66f5-8839ef"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {},
+  "tagColors": {
+    "уборка": 3,
+    "конкурсы": 4,
+    "отдых": 5,
+    "доки": 0,
+    "игра": 1,
+    "видео": 2
+  },
+  "_version": 4
+}
